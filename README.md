@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Husan Vokhidov
-- 👀 I’m interested in computer vision and machine learning as a long-term career
-<!---
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
---->
+- 👀 I’m interested in computer vision, machine learning and robotics as a long-term career.
+- 🌱 I’m currently learning robotics and automation.
+- 💞️ I’m looking to collaborate on any computer vision, machine learning, and robotics projects.
 - 📫 You can reach me at vokhidovhusan@nate.com
 
 <!---
